@@ -1,0 +1,24 @@
+body {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+
+.list {
+    text-align: left;
+    background-color: peachpuff;
+    padding: 5px
+}
+
+h1, h3 {
+    background-color: rgba(0, 0, 0, 0.336);
+    color: rgb(188, 223, 245);
+    padding: 5px;
+
+}
+
+.home {
+    float: left;
+    color:seagreen;
+}
